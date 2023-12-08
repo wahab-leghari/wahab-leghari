@@ -28,6 +28,6 @@
 
 ------
 
-Credit: [Abdul Wahab](https://github.com/wahab-leghari)
+[Abdul Wahab](https://github.com/wahab-leghari)
 
 Last edited on: 08/12/2023
